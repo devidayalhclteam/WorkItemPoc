@@ -32,7 +32,7 @@ on:
       gh-repo:
         description: 'gh-org'
         required: true
-        default: 'ado_workitems_to_github_issues'
+        default: 'WorkItemPoc'
       gh_update_assigned_to:
         description: 'Update Assigned To'
         required: true
